@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5926427-DA8F-4FDA-A6E1-278FDE4EE01F}|wfaEmprestimoLivros.csproj|g:\\outros computadores\\meu computador\\engenharia mecatr\u00F4nica\\7\u00B0 per\u00EDodo\\facom31514 - programa\u00E7\u00E3o orientada a objetos\\projeto final\\projeto final - poo  - marco tulio vilela fonseca\\wfaemprestimolivros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5926427-DA8F-4FDA-A6E1-278FDE4EE01F}|wfaEmprestimoLivros.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5926427-DA8F-4FDA-A6E1-278FDE4EE01F}|wfaEmprestimoLivros.csproj|G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\conexaostring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5926427-DA8F-4FDA-A6E1-278FDE4EE01F}|wfaEmprestimoLivros.csproj|solutionrelative:conexaostring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5926427-DA8F-4FDA-A6E1-278FDE4EE01F}|wfaEmprestimoLivros.csproj|G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5926427-DA8F-4FDA-A6E1-278FDE4EE01F}|wfaEmprestimoLivros.csproj|solutionrelative:livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5926427-DA8F-4FDA-A6E1-278FDE4EE01F}|wfaEmprestimoLivros.csproj|G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5926427-DA8F-4FDA-A6E1-278FDE4EE01F}|wfaEmprestimoLivros.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5926427-DA8F-4FDA-A6E1-278FDE4EE01F}|wfaEmprestimoLivros.csproj|G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5926427-DA8F-4FDA-A6E1-278FDE4EE01F}|wfaEmprestimoLivros.csproj|solutionrelative:aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:28:34.714Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:44:18.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\Livro.cs",
+              "RelativeDocumentMoniker": "Livro.cs",
+              "ToolTip": "G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\Livro.cs",
+              "RelativeToolTip": "Livro.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:37:58.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\Aluno.cs",
+              "RelativeDocumentMoniker": "Aluno.cs",
+              "ToolTip": "G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\Aluno.cs",
+              "RelativeToolTip": "Aluno.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T16:35:07.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConexaoString.cs",
+              "DocumentMoniker": "G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\ConexaoString.cs",
+              "RelativeDocumentMoniker": "ConexaoString.cs",
+              "ToolTip": "G:\\Outros computadores\\Meu computador\\Engenharia Mecatr\u00F4nica\\7\u00B0 Per\u00EDodo\\FACOM31514 - Programa\u00E7\u00E3o Orientada a Objetos\\Projeto Final\\Projeto Final - POO  - Marco Tulio Vilela Fonseca\\wfaEmprestimoLivros\\ConexaoString.cs",
+              "RelativeToolTip": "ConexaoString.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:20:19.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
